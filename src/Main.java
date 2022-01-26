@@ -4,7 +4,7 @@ public class Main {
         // с использованием функций for, do-while
         int i;
         int b=100;
-        for (i=0;i<100;i++) {
+        for (i=0;i<100;) {
             do {
                 i++;
                 System.out.println("Печатается значение   " + i);
